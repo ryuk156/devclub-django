@@ -1,4 +1,4 @@
 # devclub-django
 
 
-A badic django app addition of two numbers'
+A basic django app addition of two numbers'
